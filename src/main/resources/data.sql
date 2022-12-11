@@ -2,7 +2,7 @@ INSERT INTO tb_department(name) VALUES ('Sales');
 INSERT INTO tb_department(name) VALUES ('Management');
 INSERT INTO tb_department(name) VALUES ('Training');
 
-INSERT INTO tb_employee(name, email, department_id) VALUES ('Maria', 'maria@gmail.com', 1);
+INSERT INTO tb_employee(name, email, department_id) VALUES ('Management', 'maria@gmail.com', 1);
 INSERT INTO tb_employee(name, email, department_id) VALUES ('Ana', 'maria@gmail.com', 2);
 INSERT INTO tb_employee(name, email, department_id) VALUES ('Bob', 'maria@gmail.com', 1);
 INSERT INTO tb_employee(name, email, department_id) VALUES ('Marco', 'maria@gmail.com', 2);
